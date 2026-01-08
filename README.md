@@ -1,4 +1,4 @@
-# Python Assignment: Task 1 and Task 2
+# Python Assignment 1: Task 1 and Task 2
 
 This repository contains two beginner-level Python programs created as part of an academic assignment.
 The programs demonstrate basic Python concepts such as user input, arithmetic operations,
